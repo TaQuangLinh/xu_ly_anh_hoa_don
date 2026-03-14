@@ -1,0 +1,79 @@
+BÁO CÁO TỰ ĐỘNG ĐIỀN TRACKING (2026-03-11 20:30:14)
+============================================================
+
+PHẦN 1: NHẬT KÝ CHI TIẾT TỪNG MÃ
+------------------------------------------------------------
+Mã ID: m76590395623 | OK -> Đã điền Tracking: notrack
+Mã ID: m86311926715 | OK -> Đã điền Tracking: 647237810623
+Mã ID: m80945132245 | OK -> Đã điền Tracking: 624128817443
+Mã ID: m95504080459 | OK -> Đã điền Tracking: 626590569253
+Mã ID: m43785111691 | OK -> Đã điền Tracking: 626591186200
+Mã ID: m11330330270 | OK -> Đã điền Tracking: 626590657582
+Mã ID: m46702289305 | OK -> Đã điền Tracking: 647226077632
+Mã ID: m68516710122 | OK -> Đã điền Tracking: 822057176791
+Mã ID: m92845338158 | OK -> Đã điền Tracking: 623524558473
+Mã ID: m36099692125 | OK -> Đã điền Tracking: 647228492901
+Mã ID: m49448789198 | OK -> Đã điền Tracking: 626592553285
+Mã ID: m63766156231 | OK -> Đã điền Tracking: 565130167232
+Mã ID: m28203994874 | OK -> Đã điền Tracking: 647230207923
+Mã ID: m24525573343 | OK -> Đã điền Tracking: 626594208951
+Mã ID: m84723995824 | OK -> Đã điền Tracking: 647233403994
+Mã ID: m58103913229 | OK -> Đã điền Tracking: notrack
+Mã ID: m41681984612 | OK -> Đã điền Tracking: notrack
+Mã ID: m94259781973 | OK -> Đã điền Tracking: notrack
+Mã ID: m56216893847 | OK -> Đã điền Tracking: 647231496030
+Mã ID: m77964206764 | OK -> Đã điền Tracking: 647232195046
+Mã ID: m62241428885 | OK -> Đã điền Tracking: 623029670325
+Mã ID: m21422836027 | OK -> Đã điền Tracking: 647235363412
+Mã ID: m12142287720 | OK -> Đã điền Tracking: 623032290812
+Mã ID: m64515216543 | OK -> Đã điền Tracking: 624129946355
+Mã ID: m50146252834 | OK -> Đã điền Tracking: 623032180385
+Mã ID: m14519919902 | OK -> Đã điền Tracking: notrack
+Mã ID: m23183765263 | OK -> Đã điền Tracking: 822057472876
+Mã ID: m57823563009 | OK -> Đã điền Tracking: 624130024932
+Mã ID: m89842806927 | OK -> Đã điền Tracking: 624129957990
+Mã ID: m17997719944 | OK -> Đã điền Tracking: 239670909564
+Mã ID: m51178933551 | Lỗi: Không tìm thấy link chứa mã này trên Google Sheet
+
+
+PHẦN 2: THỐNG KÊ TỔNG HỢP
+------------------------------------------------------------
+
+[THÀNH CÔNG] Đã điền Tracking (30 đơn):
+  + m76590395623
+  + m86311926715
+  + m80945132245
+  + m95504080459
+  + m43785111691
+  + m11330330270
+  + m46702289305
+  + m68516710122
+  + m92845338158
+  + m36099692125
+  + m49448789198
+  + m63766156231
+  + m28203994874
+  + m24525573343
+  + m84723995824
+  + m58103913229
+  + m41681984612
+  + m94259781973
+  + m56216893847
+  + m77964206764
+  + m62241428885
+  + m21422836027
+  + m12142287720
+  + m64515216543
+  + m50146252834
+  + m14519919902
+  + m23183765263
+  + m57823563009
+  + m89842806927
+  + m17997719944
+
+[LỖI SAI GIÁ] Khớp ID nhưng sai tiền (0 đơn):
+
+[LỖI THIẾU DỮ LIỆU] Khớp ID, khớp giá nhưng Excel bỏ trống cột Tracking (0 đơn):
+
+[LỖI KHÔNG TÌM THẤY] Mã có trong Excel nhưng không có link trên GSheet (1 đơn):
+  + m51178933551

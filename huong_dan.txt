@@ -1,0 +1,11 @@
+
+    Đây là hướng dẫn dùng app Đọc Ảnh để cop tracking
+
+Bước 1: mở Zalo và chạy app.py
+Bước 2: upload các ảnh cần xử lý lên rồi tiến hành xử lí, chờ AI làm xong thì lưu về folder copy_tracking
+Bước 3: mở folder đó lên và check xem chuẩn tiền chưa
+Bước 4: thay đường dẫn chuẩn và chạy update_tracking.py
+
+Lưu ý: có thể bỏ qua bước 3, vì khi chạy bước 4: hệ thống so ID trước, trùng thì so tiếp Giá tiền
+            Nếu trùng Giá tiền -> điền tracking -> đã đọc đúng Giá tiền từ hóa đơn
+            Nếu không trùng -> không điền tracking, phát cảnh báo -> đã đọc sai giá
